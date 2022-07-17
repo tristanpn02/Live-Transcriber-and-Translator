@@ -1,0 +1,2 @@
+speech_recognition
+googletrans==3.1.0a0
